@@ -53,4 +53,4 @@ Research and define the following terms to the best of your ability.
 
 4. Method: This is the actions that can be used on objects.
 
-5. Classes: These are templates for creating objects. 
+5. Classes: These are templates for creating objects.
